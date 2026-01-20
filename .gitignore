@@ -1,0 +1,8 @@
+*.json
+*.ini
+alert
+alert_*
+!.gitignore
+go.mod
+go.sum
+*.log
